@@ -1,2 +1,4 @@
 # Hello_World
-New Sample Repository for Study
+
+Ceating new branch for study purpose
+This is the main ReadMe File.
